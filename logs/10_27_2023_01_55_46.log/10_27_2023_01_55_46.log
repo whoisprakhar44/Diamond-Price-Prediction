@@ -1,0 +1,6 @@
+[ 2023-10-27 01:55:46,813 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-27 01:55:46,818 ] 96 werkzeug - INFO -  * Debugger PIN: 173-266-437
+[ 2023-10-27 01:55:51,240 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 01:55:51] "GET / HTTP/1.1" 200 -
+[ 2023-10-27 01:55:52,677 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 01:55:52] "GET /form.html HTTP/1.1" 200 -
+[ 2023-10-27 01:56:02,214 ] 65 root - INFO - Dataframe Gathered
+[ 2023-10-27 01:56:02,305 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 01:56:02] "POST /form.html HTTP/1.1" 200 -

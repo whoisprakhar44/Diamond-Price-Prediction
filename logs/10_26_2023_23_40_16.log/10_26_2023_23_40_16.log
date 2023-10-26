@@ -1,0 +1,9 @@
+[ 2023-10-26 23:40:17,183 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-26 23:40:17,198 ] 96 werkzeug - INFO -  * Debugger PIN: 173-266-437
+[ 2023-10-26 23:40:21,285 ] 65 root - INFO - Dataframe Gathered
+[ 2023-10-26 23:40:21,502 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Oct/2023 23:40:21] "POST /predict HTTP/1.1" 200 -
+[ 2023-10-26 23:40:26,580 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Oct/2023 23:40:26] "GET /predict HTTP/1.1" 200 -
+[ 2023-10-26 23:40:28,297 ] 65 root - INFO - Dataframe Gathered
+[ 2023-10-26 23:40:28,305 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Oct/2023 23:40:28] "POST /predict HTTP/1.1" 200 -
+[ 2023-10-27 00:46:23,797 ] 65 root - INFO - Dataframe Gathered
+[ 2023-10-27 00:46:23,816 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 00:46:23] "POST /predict HTTP/1.1" 200 -

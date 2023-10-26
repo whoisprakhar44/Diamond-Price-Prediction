@@ -1,0 +1,5 @@
+[ 2023-10-26 22:07:13,961 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-26 22:07:13,972 ] 96 werkzeug - INFO -  * Debugger PIN: 173-266-437
+[ 2023-10-26 22:08:01,443 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Oct/2023 22:08:01] "GET / HTTP/1.1" 200 -
+[ 2023-10-26 22:08:01,483 ] 96 werkzeug - INFO - 127.0.0.1 - - [26/Oct/2023 22:08:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-10-26 22:08:24,899 ] 96 werkzeug - INFO -  * Detected change in '/Users/prakhar/Desktop/vs_code_files/ineuron/Diamond-Price-Prediction/app.py', reloading

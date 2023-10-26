@@ -1,0 +1,9 @@
+[ 2023-10-27 01:54:29,814 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-27 01:54:29,823 ] 96 werkzeug - INFO -  * Debugger PIN: 173-266-437
+[ 2023-10-27 01:54:36,930 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 01:54:36] "GET / HTTP/1.1" 200 -
+[ 2023-10-27 01:54:39,158 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 01:54:39] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[ 2023-10-27 01:55:01,711 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 01:55:01] "GET /predict HTTP/1.1" 200 -
+[ 2023-10-27 01:55:12,065 ] 65 root - INFO - Dataframe Gathered
+[ 2023-10-27 01:55:12,155 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 01:55:12] "POST /predict HTTP/1.1" 200 -
+[ 2023-10-27 01:55:17,043 ] 96 werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 01:55:17] "GET /predict HTTP/1.1" 200 -
+[ 2023-10-27 01:55:29,988 ] 96 werkzeug - INFO -  * Detected change in '/Users/prakhar/Desktop/vs_code_files/ineuron/Diamond-Price-Prediction/app.py', reloading

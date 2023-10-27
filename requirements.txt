@@ -1,4 +1,5 @@
 numpy
 pandas
 Flask
-# -e. # triggers setup.py
+scikit-learn
+-e.

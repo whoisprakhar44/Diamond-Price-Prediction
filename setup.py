@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup (
-    name='RegressorProject',
+    name='DiamondPricePrediction',
     version = '0.0.1',
     author='Prakhar',
     author_email='prakharshukla2505@gmail.com',

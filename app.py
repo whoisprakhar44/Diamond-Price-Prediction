@@ -3,6 +3,7 @@ from src.pipeline.prediction_pipeline import CustomData, PredictPipeline
 
 app = Flask(__name__)
 
+
 # homepage(default -> 'get')
 @app.route('/')
 def home_page():
